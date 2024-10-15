@@ -1,3 +1,4 @@
+![gh1](https://github.com/user-attachments/assets/dd92b6b6-c29f-4424-b13e-d89670be496a)
 <h1 align="center">Hi 👋, I'm Cao Gia Huy</h1>
 <h3 align="center">A passionate fullstack mobile developer from VietNam</h3>
 
