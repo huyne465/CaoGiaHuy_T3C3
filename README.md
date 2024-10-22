@@ -1,4 +1,4 @@
-![gh1](https://github.com/user-attachments/assets/dd92b6b6-c29f-4424-b13e-d89670be496a)
+
 <h1 align="center">Hi 👋, I'm Cao Gia Huy</h1>
 <h3 align="center">A passionate fullstack mobile developer from VietNam</h3>
 
@@ -20,8 +20,6 @@
 
 - ⚡ Fun fact **i`ll handle you with care**
 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/huy.ne.31105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/huy.ne.31105/" height="30" width="40" /></a>
